@@ -1,6 +1,10 @@
 <header id="masthead" class="site-header">
 <div class="site-branding">
-  <h1 class="site-title"><a href="index.html" rel="home"><img src="img/logo.jpg" alt="Desvio de Rotas" style="width:200px"></a></h1>
+  <h1 class="site-title">
+    <a href="/" rel="home">
+      <img src="img/logo.jpg" alt="Big Trips" style="width:200px">
+    </a>
+  </h1>
   <!-- <h2 class="site-description">Agência de viagens</h2> -->
 </div>
 <nav id="site-navigation" class="main-navigation">
