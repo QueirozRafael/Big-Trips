@@ -120,7 +120,7 @@
 						</li>
 						<li id="simple4Tab">
 							<p>
-								<p><span>De acordo com a deliberação normativa nº 161 de 09 de Agosto de 1985, da Embratur, o valor em percentual a ser restituído será de:</span></p>
+								<span>De acordo com a deliberação normativa nº 161 de 09 de Agosto de 1985, da Embratur, o valor em percentual a ser restituído será de:</span></p>
 								<span>- 90% até 31 dias do início da viagem;</span><br>
 								<span>- 80% de 21 a 30 dias do início da viagem;</span><br>
 								<span>- 0% a menos de 20 dias do início da viagem;</span>
